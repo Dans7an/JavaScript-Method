@@ -1,1 +1,1 @@
-# JavaScript-Method
+# JavaScript-Methods
